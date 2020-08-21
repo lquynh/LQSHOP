@@ -17,7 +17,7 @@
 			<div class="row">
 				<form action="" method='get'>
 					<div class="form-group">
-						<input type="text" class='form-control' placeholder="NHẬP MÃ SỬA  CHỮA BẢO HÀNH" id='nhapbh'>
+						<input type="text" class='form-control' placeholder="NHẬP MÃ SỬA  CHỮA BẢO HÀNH MIỄN PHÍ" id='nhapbh'>
 					</div>
 					<div class="nut-tracuu">
 						<input type="submit" value='TRA CỨU' id='tracuu'>
